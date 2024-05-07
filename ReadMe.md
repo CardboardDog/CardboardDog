@@ -3,6 +3,7 @@
   <img alt="CD's stats" src="https://github-readme-stats.vercel.app/api?username=cardboarddog&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"/>
   <br/>
   <h2 align="center">Current Projects:</h2>
-  <a href="https://github.com/CardboardDog/SRCE"><h4 align="center">SRCE Engine :shipit:</h4></a>
-  <a href="https://github.com/CardboardDog/LISTe"><h4 align="center">LISTe Scripting Language (Currently Unusable)</h4></a>
+  <a href="https://github.com/CardboardDog/SRCE">SRCE Engine</a>
+  <br/>
+  <a href="https://github.com/CardboardDog/LISTe">LISTe Scripting Language (Currently Unusable)</a>
 </p>
