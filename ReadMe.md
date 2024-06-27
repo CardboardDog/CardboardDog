@@ -8,4 +8,6 @@
   <a href="https://github.com/CardboardDog/LISTe">LISTe Scripting Language (Currently Unusable)</a>
   <br>
   <a href="https://github.com/CardboardDog/MK-ModGen">Mario Kart (Wii) Mod Generator</a>
+  <br/>
+  <a href="https://github.com/CardboardDog/CemuForwarder">Cemu Forwarder</a>
 </p>
